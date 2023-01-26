@@ -11,7 +11,7 @@ async function(req, res) {
 }
 ```
 
-You can see the result of this function by browsing <a target="_blank" href="https://ssl3.io/href">Hello World</a>.
+You can see the result of this function by browsing <a target="_blank" href="https://ssl3.io/hello">Hello World</a>.
 
 your function needs to use `res.end(string)` to send data.
 
