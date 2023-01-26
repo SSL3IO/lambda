@@ -7,9 +7,11 @@ In the code editor, the format of the function you are writing is this one:
 
 ```js
 async function(req, res) {
-
+  res.end("Hello SSL3.IO");
 }
 ```
+
+You can see the result of this function by browsing <a target="_blank" href="https://ssl3.io/href">Hello World</a>.
 
 your function needs to use `res.end(string)` to send data.
 
